@@ -25,4 +25,4 @@ A pesar de solo requerir 3 campos, la respuesta REST devolvió cientos de línea
 - **`sprites`**: Múltiples URLs de imágenes que no fueron solicitadas.
 
 ## 4. Conclusión Técnica
-La arquitectura REST, al no permitir filtrar campos desde la consulta, obliga al cliente a descargar un volumen de datos significativamente mayor al necesario. Esto impacta directamente en el consumo de ancho de banda y en los tiempos de procesamiento del lado del cliente.
+La arquitectura REST, al no permitir filtrar campos desde la consulta, obliga al cliente a descargar un volumen de datos significativamente mayor al necesario. Esto impacta directamente en el consumo de ancho de banda y en los tiempos de procesamiento del lado del cliente..
