@@ -20,7 +20,7 @@ graph TD
     subgraph Gestion_de_Datos
         JSON[Respuesta JSON Masiva]
         Optimized[Respuesta JSON Eficiente]
-    endgit
+    end
 
     App -- "Petición GET (Over-fetching)" --> REST
     REST -- "Retorna Todo el Recurso" --> JSON
